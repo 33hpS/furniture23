@@ -93,7 +93,7 @@
     </div>  
 
     <footer>  
-        &copy; 2023 Мебельная фабрика  
+        &copy; 2025 Мебельная фабрика WASSER 
     </footer>  
 
 </body>  
