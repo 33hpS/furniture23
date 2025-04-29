@@ -53,7 +53,7 @@
                         <div class="flex flex-col md:flex-row gap-4">
                             <div class="md:w-1/3">
                                 <div class="aspect-w-16 aspect-h-9 bg-gray-200 rounded-lg overflow-hidden">
-                                    <https://ligamac.ru/upload/iblock/c6d/9k7n1ksruijdvf6v484opl4xa5y0ctma.jpg>
+                                    <img src="https://ligamac.ru/upload/iblock/c6d/9k7n1ksruijdvf6v484opl4xa5y0ctma.jpg" alt="Пильный центр KDT 832" class="w-full h-full object-cover"> 
                                 </div>
                             </div>
                             <div class="md:w-2/3">
