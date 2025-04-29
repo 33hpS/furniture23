@@ -78,7 +78,7 @@
                         <div class="flex flex-col md:flex-row gap-4">
                             <div class="md:w-1/3">
                                 <div class="aspect-w-16 aspect-h-9 bg-gray-200 rounded-lg overflow-hidden">
-                                    <img src="/api/placeholder/600/400" alt="Присадочный станок KDT 610 HZ" class="w-full h-full object-cover">
+                                    <img src="https://ligamac.ru/upload/iblock/71d/giz77w2rgfccb2edz5ncs5wew6clgq7o.png" alt="Сверлильный станок" class="w-full h-full object-cover">  
                                 </div>
                             </div>
                             <div class="md:w-2/3">
@@ -103,7 +103,7 @@
                         <div class="flex flex-col md:flex-row gap-4">
                             <div class="md:w-1/3">
                                 <div class="aspect-w-16 aspect-h-9 bg-gray-200 rounded-lg overflow-hidden">
-                                    <img src="/api/placeholder/600/400" alt="Кромкооблицовочный станок KDT KE-706" class="w-full h-full object-cover">
+                                    <img src="https://ligamac.ru/upload/iblock/260/ewoiwgaeyfyxe9u1hzvdnxsces8jxkh8.jpg" alt="Кромкооблицовочный станок KDT KE-706" class="w-full h-full object-cover">  
                                 </div>
                             </div>
                             <div class="md:w-2/3">
